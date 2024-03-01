@@ -1,6 +1,6 @@
 # SYN机场官网地址
 
-最新地址：[my.synn.cc](https://synn.cc/#/register?code=8nCjHePL)
+最新地址：[synn.cc](https://synn.cc/#/register?code=8nCjHePL)
 
 ## SYN机场介绍
 
