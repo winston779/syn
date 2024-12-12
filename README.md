@@ -10,7 +10,11 @@ SYN机场对会员提供SYN Streaming企划，是基于EMBY Server 建立的公�
 
 ## SYN优惠码
 
-使用 **letmein** 在 USUAL / PLUS / FROZE V2 上获得 8 折！
+新用户首购 9 折优惠不限周期：New
+
+季付 9 折优惠： Season
+
+年付、两年付 8 折优惠： Year
 
 ## SYN价格
 
