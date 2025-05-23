@@ -1,6 +1,6 @@
 # SYN机场官网地址
 
-最新地址：[synn.cc](https://my.synn.cc/#/register?code=8nCjHePL)
+最新地址：[synn.cc](https://watashi.synn.moe/register?code=8nCjHePL)
 
 ## SYN机场介绍
 
@@ -10,11 +10,22 @@ SYN机场对会员提供SYN Streaming企划，是基于EMBY Server 建立的公�
 
 ## SYN优惠码
 
-新用户首购 9 折优惠不限周期：New
+日常优惠码
 
-季付 9 折优惠： Season
+New 新客户无门槛 10% 优惠
 
-年付、两年付 8 折优惠： Year
+Season 季付 10% 优惠
+
+Year 年付 15% 优惠
+
+TwoYears 两年付 20% 优惠
+
+日常充值满返
+
+满 100 返 5
+满 500 返 40
+满 1000 返 100
+满 2000 返 250
 
 ## SYN价格
 
